@@ -78,4 +78,24 @@ Successfully implemented an automated CI/CD pipeline capable of building, analyz
 
 **Nickole Biju**
 
+GitHub: https://github.com/nickolebiju19-lab  
+
+## Project Screenshots
+
+### 1. Jenkins CI/CD Pipeline
+![Jenkins CI/CD Pipeline](screenshots/jenkins-success.png)
+
+### 2. SonarQube Code Quality Analysis
+![SonarQube Dashboard](screenshots/sonarqube-dashboard.png)
+
+### 3. Nexus Artifact Repository
+![Nexus Repository](screenshots/nexus-repository.png)
+
+### 4. Tomcat Server
+![Tomcat Manager](screenshots/tomcat-manager.png)
+
+### 5. Deployed Java Web Application
+![Final Application](screenshots/final-application.png)
+
+
 
