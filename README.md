@@ -1,6 +1,6 @@
-CI/CD Maven Web Application using Jenkins
+# CI/CD Maven Web Application using Jenkins
 
-Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Java Maven Web Application.
 
@@ -8,7 +8,7 @@ The application source code is hosted on GitHub. Jenkins automatically clones th
 
 
 
-Technologies Used
+## Technologies Used
 
 - Java
 - Maven
@@ -22,7 +22,7 @@ Technologies Used
 
 ---
 
-CI/CD Workflow
+## CI/CD Workflow
 
 ```text
 GitHub
@@ -48,7 +48,7 @@ Running Web Application
 
 ---
 
-Pipeline Stages
+## Pipeline Stages
 
 - Clone Repository
 - Maven Build
@@ -58,7 +58,7 @@ Pipeline Stages
 
 ---
 
-Project Screenshots
+## Project Screenshots
 
 - Jenkins Pipeline Success
 - SonarQube Dashboard
@@ -68,7 +68,7 @@ Project Screenshots
 
 ---
 
-Project Outcome
+## Project Outcome
 
 Successfully implemented an automated CI/CD pipeline capable of building, analyzing, storing, and deploying a Java web application with minimal manual intervention.
 
